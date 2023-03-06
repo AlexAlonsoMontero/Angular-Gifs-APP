@@ -1,6 +1,7 @@
 # GifsApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.7.
+## Descripción:
+Aplicación que se conecta a una API externa y nos permite realizar la búsqueda de GIFS y seleción de los mismos.
 
 ## Development server
 
