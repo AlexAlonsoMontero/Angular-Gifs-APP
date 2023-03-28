@@ -6,4 +6,4 @@ Guarda el historial de busquedas en el local storage del navegador
 
 
 ## Demo
-https://genuine-bublanina-56a304.netlify.app/
+https://angular-buscador-gifs-alex.netlify.app/
